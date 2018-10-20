@@ -36,7 +36,7 @@ Don't forget to add your API key to the AndroidManifest.xml.
 (See [https://developers.google.com/maps/documentation/android/start](https://developers.google.com/maps/documentation/android/start#get_an_android_certificate_and_the_google_maps_api_key))
 
 Support
--------
+--------
 
 - Stack Overflow: https://stackoverflow.com/questions/tagged/android+google-maps
 
