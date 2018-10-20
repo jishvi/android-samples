@@ -52,7 +52,7 @@ CONTRIBUTING.md.
 ![Analytics](https://ga-beacon.appspot.com/UA-12846745-20/android-samples/readme?pixel)
 
 License
--------
+--------
 (See each sample directory for details.)
 
 Copyright 2015 The Android Open Source Project
