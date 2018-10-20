@@ -1,5 +1,5 @@
 Google Maps Android API v2 Samples
-===================================
+====================================
 
 Samples that use the [Google Maps Android API v2](https://developers.google.com/maps/documentation/android/).
 
